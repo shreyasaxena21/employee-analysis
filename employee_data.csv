@@ -1,0 +1,6 @@
+employee_id,department,region,performance_score,years_experience,satisfaction_rating
+EMP001,HR,Latin America,73.06,9,4.2
+EMP002,R&D,Europe,62.55,12,4.7
+EMP003,Operations,Africa,93.83,3,3
+EMP004,Finance,Latin America,61.23,10,3.1
+EMP005,Sales,Middle East,60.89,7,4.3
